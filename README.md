@@ -1,0 +1,2 @@
+# KikiQRCodeScannerApps
+Today I have created a new Android application called Kiki. We know In today's software technology, QR Code is in Bar code trends. So on this topic we have created Android Apps.  Working process On opening the App, your mobile camera will open, which will scan the QR code, when the process is completed, the green color will become a circular. Then click on DETECT button. Then there will be a display on the screen inside the QR Code. You can store the next feature output display display information in your local storage database.
