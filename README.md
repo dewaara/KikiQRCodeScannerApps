@@ -52,11 +52,11 @@ https://github.com/dewaara/KikiQRCodeScannerApps/blob/master/build/app-debug.apk
 
 # GizaQuiz_DEMO:-
 --------------- 
-[![kikiscanner.gif](https://github.com/dewaara/KikiQRCodeScannerApps/blob/master/kikiscanner.gif)
+[![kikiscanner.gif](https://github.com/dewaara/KikiQRCodeScannerApps/blob/master/demo/kikiscanner.gif)
 
 # Image:-
 -------------
-<img src="https://github.com/dewaara/KikiQRCodeScannerApps/blob/master/kikiscaanner_image.jpg" width="500" height="300" />
+<img src="https://github.com/dewaara/KikiQRCodeScannerApps/blob/master/demo/kikiscaanner_image.jpg" width="500" height="300" />
 
 
 # Follw Me:-
