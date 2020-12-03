@@ -17,7 +17,7 @@
 ==> Address :- Chatra || Jharkhand 825408 || India\
 ==> Copyright 2019 || Dewaara Inc. 12/06/2019 11:25 PM
 
-# DewaaraApp
+# KikiScanner
 ----------
 Today I have created a new Android application called Kiki.\
 We know In today's software technology, QR Code is in Bar code trends. So on this topic we have created Android Apps.\
@@ -37,12 +37,12 @@ You can store the next feature output display display information in your local 
 -> implementation 'com.android.support.constraint:constraint-layout:1.1.3'\
 -> testImplementation 'junit:junit:4.12'\
 -> androidTestImplementation 'com.android.support.test:runner:1.0.2'\
--> androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'\
+-> androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
 -> implementation 'com.wonderkiln:camerakit:0.13.1'\
 -> implementation 'com.google.firebase:firebase-core:16.0.1'\
 -> implementation 'com.google.firebase:firebase-ml-vision:17.0.0'\
--> implementation 'com.github.d-max:spots-dialog:1.1@aar'\
+-> implementation 'com.github.d-max:spots-dialog:1.1@aar'
 
 
 # Download APK:-
@@ -52,7 +52,7 @@ https://github.com/dewaara/KikiQRCodeScannerApps/blob/master/build/app-debug.apk
 
 # GizaQuiz_DEMO:-
 --------------- 
-[![KikiApps.gif](https://pin.it/7gcFitV)
+[![KikiApps.gif](https://pin.it/4njWCSQ)
 
 # Image:-
 -------------
